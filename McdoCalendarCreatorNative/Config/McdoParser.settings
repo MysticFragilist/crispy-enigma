@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="McdoCalendarCreatorNative.Config" GeneratedClassName="McdoParser">
+  <Profiles />
+  <Settings>
+    <Setting Name="calendar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Familial</Value>
+    </Setting>
+    <Setting Name="EmpCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4926</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
