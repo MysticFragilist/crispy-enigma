@@ -11,7 +11,7 @@ First, run the tool using the Script on command line. Then, just launch the comm
 There is altough some limitations:
  - Your email given to your manager must be of outlook type.
  - It must be ran on a Windows PC that has an outlook application setup.
- - The calendar name is hardcoded to 'familial' it's something I wish to put in a setup place.
+ - The calendar name is hardcoded to 'familial' it's something I wish to put in a config file.
  - Instead of looking for a specific type of object, it would be better to actually verify if that email came from Mc Donald's CANADA.
  - This is tested only with one way of handing out schedule, other MC Donald's then Lachenaie may use a different system.
 
